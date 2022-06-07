@@ -1,0 +1,8 @@
+{
+  "name": "meu-devocionario-api",
+  "version": "0.0.1",
+  "description": "Api para meudevocionario.com.br",
+  "main": "index.js",
+  "author": "Kayan Hendges",
+  "license": "MIT"
+}
